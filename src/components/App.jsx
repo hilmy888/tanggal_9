@@ -1,7 +1,8 @@
 import React from 'react'
+import Base from './Base'
 
 function App() {
-  return (<div>Start Here</div>)
+  return (<div><Base /></div>)
 }
 
 export default App

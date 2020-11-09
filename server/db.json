@@ -1,16 +1,21 @@
 {
   "users": [
     {
-      "email": "user@email.com",
-      "password": "$2a$10$K6.yB5cujxVb6o2SGSVYdO2g6MeT9zt1MFYv6QjxBILXKC4WysZFu",
+      "email": "tatang@gmail.com",
+      "password": "$2a$10$iAmf4FJJzbzARLg2Udyqm.1dQowHJTUyubN0iVpVSwprhhg8/.5TG",
       "id": 1
     }
   ],
   "posts": [
     {
-      "title": "title",
-      "author": "author",
+      "tittle": "hilmy123",
+      "author": "hilmy234",
       "id": 1
+    },
+    {
+      "tittle": "hilmy1122",
+      "author": "hilmy2211",
+      "id": 2
     }
   ],
   "tasks": []
